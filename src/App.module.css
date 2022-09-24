@@ -1,0 +1,12 @@
+.app{
+  display: flex;
+  background-color: red;
+  flex-direction: column;
+}
+
+.list{
+  display: flex;
+  background-color: red;
+  flex-direction: column;
+
+}
